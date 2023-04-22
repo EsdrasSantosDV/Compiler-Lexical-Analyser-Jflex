@@ -1,4 +1,5 @@
-java Yylex teste1.txt > saida1.txt
-bla bla bla
-	Esta linha comeca com tabulacao
-		Esta com duas tabulacoes
+if <= Esdras
+teste3:=20>50+6array
+Teste4 >= 10.2
+Teste >= 87
+
